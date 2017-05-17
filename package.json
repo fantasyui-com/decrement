@@ -1,0 +1,20 @@
+{
+  "name": "decrement",
+  "version": "1.0.0",
+  "description": "Auto decrement value at preset rate.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fantasyui-com/decrement.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fantasyui-com/decrement/issues"
+  },
+  "homepage": "https://github.com/fantasyui-com/decrement#readme"
+}
