@@ -1,6 +1,6 @@
 {
   "name": "decrement",
-  "version": "1.0.1",
+  "version": "1.1.0",
   "description": "Auto decrement value at preset rate.",
   "main": "index.js",
   "scripts": {
