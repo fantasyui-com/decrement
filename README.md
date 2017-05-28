@@ -2,6 +2,7 @@
 Decrement random value in array. Image below demonstrates random decrements in rgb(255,255,255) structure.
 
 ![Distribution Example](screenshot.png)
+
 (See sample output [test.html](test.html) for full dataset)
 
 
