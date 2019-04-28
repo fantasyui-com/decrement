@@ -20,7 +20,7 @@
   "dependencies": {
     "lodash": "^4.17.4",
     "moment": "^2.18.1",
-    "oneof": "^1.0.1",
+    "oneof": "^1.1.0",
     "shelljs": "^0.7.7",
     "sprintf-js": "^1.1.0"
   }
